@@ -1,0 +1,10 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "public": "../public/",
+  "paginate": {
+    "default": 10,
+    "max": 50
+  },
+  "mongodb": "mongodb+srv://intern:qvG5DLEivlS49Sa5@cluster-staging-repzo-1.yrmdo.mongodb.net/staging-1db"
+}
